@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"offers.offerId":{"$numberInt":"1"}},"name":"offers.offerId_1","background":true}],"uuid":"458b9d2c3e58488b900ae9a279915036","collectionName":"withdrawnoffers"}
